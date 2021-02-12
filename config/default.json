@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "constantine secret string",
+  "mongoUri": "mongodb+srv://constantine:banan321@cluster0.cc0c1.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}

@@ -1,0 +1,18 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+.nav-wrapper-my {
+  padding: 0 2rem;
+}
+.btn-styled {
+  margin-right: 10px;
+}
+
+.style-cr {
+  padding-top: 2rem;
+}
+
+.loader-styled {
+  display: 'flex';
+  justify-content: 'center';
+  padding-top: 2rem;
+}
